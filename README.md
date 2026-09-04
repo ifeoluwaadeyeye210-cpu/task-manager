@@ -3,8 +3,8 @@
 A full-stack web application for managing tasks with authentication and role-based access.
 
 ## Features
-- User signup/login with JWT
-- Create, update, delete tasks
+- Secure signup/login with JWT
+- Create, update, and delete tasks
 - Role-based access (admin vs user)
 - Responsive UI built with React
 
